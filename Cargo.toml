@@ -11,6 +11,6 @@ homepage="https://github.com/immortalinfidel/tr-rs"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-ta-common = { git = "https://github.com/LinuxHeki/ta-common" }
-wilders-rs = { git = "https://github.com/LinuxHeki/wilders-rs" }
+ta-common = { git = "https://github.com/LinuxHeki/ta-common" rev = "2708466ebe396be60d7f60bc4592cfbe7e6acd6f" }
+wilders-rs = { git = "https://github.com/LinuxHeki/wilders-rs" rev = "99e6a57ed5f0fa8c5d1b8157e291bfdaa65f714d" }
 float-ord = "0.2.0"

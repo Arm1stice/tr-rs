@@ -1,5 +1,4 @@
 #![feature(array_map)]
-#![feature(external_doc)]
  mod tr;
  mod atr;
  mod natr;

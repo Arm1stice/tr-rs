@@ -29,7 +29,6 @@ impl Indicator<[f64; 3], f64> for TrueRange {
             }
         };
         self.prev = Some(input);
-        println!("{}",&res);
         return res;
     }
 
